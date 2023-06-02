@@ -3,7 +3,7 @@
 
 
 <h3>Quick intro of myself</h3>
-<p>I'm Marie, a FullStack web developer, currently living in <b>Bordeaux 🍷, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>.
+<p>I'm Marie, 30, a FullStack Web Developer, currently living in <b>Bordeaux 🍷, France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></b>.
   
 
 <table>
