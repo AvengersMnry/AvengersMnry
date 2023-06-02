@@ -9,8 +9,8 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>✅ J'aime</b></td>
-      <td><b>❌ J'aime pas</b></td>
+      <td><b>✅ I like</b></td>
+      <td><b>❌ I dislike</b></td>
     </tr>
   </thead>
   <tbody>
@@ -43,7 +43,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
+  <img alt="Ionic" src="https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-1a73e8?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
